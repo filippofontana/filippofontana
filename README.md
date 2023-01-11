@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @filippofontana
 - 👀 I’m interested in working on great projects
-- 🌱 I’m currently a student in Computer Science (Master Degree)
+- 🌱 I’m currently a fresh graduate in Computer Science (Master's Degree)
 - 🐱 I'm more active on GitLab, you can find my profile [here](https://gitlab.com/flepa)
 - 💞️ I’m looking to collaborate on open source projects in Python or Software Development in general
 
